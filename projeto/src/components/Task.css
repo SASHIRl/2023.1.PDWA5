@@ -5,7 +5,7 @@
     display: flex;
     border-radius: 5px;
     justify-content: space-between;
-    color: #eee;
+    color: #D8B8FF;
     align-items: center;
 }
 
@@ -24,6 +24,6 @@
     background-color: #444;
     border: none;
     font-size: 24px;
-    color: chartreuse;
+    color: #D8B8FF;
     margin: 0 5px;
 }
